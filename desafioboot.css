@@ -1,0 +1,43 @@
+#botonbuscar{
+      color: green;
+      border-color: green;
+  }
+#cac{
+      font-size: 110%;
+     font-weight: 500;
+  }
+#link{
+      opacity: 75%;
+  }
+#desactivado{
+      opacity: 60%;
+  }
+.tarjetas{
+      display: flex;
+      justify-content: center;
+  }
+#carta{
+      width: 350px;
+  }
+.card-body{
+height: 120px;
+  }
+.form-check{
+    margin-left: 12px;
+}
+#botonenviar{
+    margin-top: 20px;
+}
+#email{
+    width: 100%
+}
+.sesion{
+    margin-left: 150px;
+    width: 80%;
+}
+#cc-email{
+    width: 1050px;
+}
+#cc-contraseña{
+    width: 1050px;
+}
